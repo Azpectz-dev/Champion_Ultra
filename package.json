@@ -28,7 +28,7 @@
     "mongoose": "^7.2.2",
     "ms": "^2.1.2",
     "mysql2": "latest",
-    "mediaplex": "^0.0.9",
+    "mediaplex": "^1.0.0",
     "quick.db": "^9.0.5",
     "yaml": "latest"
   },
