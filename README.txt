@@ -1,8 +1,2 @@
-Thank you for your purchase! If you need help or have a question feel free to join Support Server
-All Information on how to setup the bot can be found on Official Wiki - https://nidzo-docs.gitbook.io/ultrabot
-
-Support Server: https://discord.gg/RNetuFxCGQ
-Documentation: https://nidzo-docs.gitbook.io/ultrabot
-
-** You're not allowed to redistribute or leak this product **
-# 012AWNNBCUVE5
+Yoo this is my bot now!!
+Don't mind it being like yk stolen lol
